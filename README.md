@@ -1,6 +1,5 @@
 # Hi, I'm Vladyslav 👋
-Java Developer without comertial experience. I have good knowledge in backend development on Java. I created some pet projects which you can find in my opened repositories.
-
+I have good knowledge in backend development on Java and Spring Framework. I created some projects which you can find in my opened repositories. Now, I'm looking for job as a Java Software Developer.
 <p align = 'center'>
  <a href="https://www.codewars.com/users/vpoltavets02">
   <img src="https://github.r2v.ch/codewars?user=vpoltavets02">
@@ -10,26 +9,35 @@ Java Developer without comertial experience. I have good knowledge in backend de
  </a>
  </p>
 
-### Key points
+## 📱 My contacts
+I'm in:
+* LinkedIn: <a href="https://dou.ua/users/vladyslav-poltavets/">link</a>
+* Telegram: <a href="https://t.me/vpoltavets02">link</a>
+* Instagram: <a href="https://www.instagram.com/vpoltavets02/">link</a>
+* DOU: <a href="https://dou.ua/users/vladyslav-poltavets">link</a>
 
 ## 🛠 Technical Stack
 * Java programming language
-* MySQL, PostgreSQL
-* Spring Framework, Spring Boot, Spring Data Jpa, Spring Jdbc template and so on...
-*  Hibernate
-*  GitHub, GitLab
+* Spring Framework (Web, WebFlux, Boot, Security, Data JPA)
+* MySQL, PostgreSQL, Hibernate
+* Selenium, JSoup
+* JUnit, Mockito
+* Telegram Bot API
+* GitHub, GitLab
 
-### My projects
-
-## 📱You can contact me:
-<div id="badges">
- <a href="https://www.linkedin.com/in/vladyslav-poltavets-49904b240?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
- </a>
- <a href="https://t.me/vpoltavets02">
-  <img src="https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&logoColor=white" alt="Telegram Badge"/>
- </a>
- <a href="">
-  <img src="https://img.shields.io/badge/DOU-black?style=plastic&logo=dou&logoColor=white" alt="DOU Badge"/>
- </a>
-</div>
+## My projects
+* VCryptoInformerBot — telegram-bot for informing users about changes in crypto world. Stack of technologies which were used for writing bot:
+    * Java
+    * Spring Framework (Boot, WebFlux, Data JPA)
+    * Telegram Bot API
+    * PostgreSQL
+ 
+[Link](https://github.com/vpoltavets02/VCryptoInformerBot) on repository, [link](https://t.me/VCryptoInformerBot) on bot.
+* Coworking Space — web application for booking work places in coworking center. Technologies and frameworks which I used for this project:
+    * Java
+    * Spring Framework (Boot, Web, Data JPA, Security, Mail)
+    * H2 database
+    * Thymeleaf
+    * JUnit, Mockito
+ 
+You can find a public repository with this project [here](https://github.com/vpoltavets02/CoworkingProject/tree/master)
