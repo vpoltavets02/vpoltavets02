@@ -1,5 +1,5 @@
 # Hi, I'm Vladyslav 👋
-I have good knowledge in backend development on Java and Spring Framework. I created some projects which you can find in my opened repositories. Now, I'm looking for job as a Java Software Developer.
+I have good knowledge in backend development on Java and Spring Framework. I created some projects which you can find in my opened repositories. Now, I'm working as a Java Software Developer in DataArt.
 <p align = 'center'>
  <a href="https://www.codewars.com/users/vpoltavets02">
   <img src="https://github.r2v.ch/codewars?user=vpoltavets02">
